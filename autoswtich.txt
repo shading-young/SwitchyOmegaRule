@@ -662,6 +662,7 @@ blogspot.com
 ||ytimg.com
 ||zynamics.com
 .openbci.com
+.twitch.tv
 
 !!---KickASS---
 !--OFFICIAL URL list at: https://kastatus.com
